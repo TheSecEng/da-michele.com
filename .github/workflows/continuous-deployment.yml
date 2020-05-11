@@ -1,6 +1,3 @@
-%YAML 1.2
----
-
 name: continuous-deployment
 
 on:
