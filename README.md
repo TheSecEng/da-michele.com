@@ -6,9 +6,9 @@
 
 | Workflow | Status | Output |
 |----------|--------|--------|
-| [`continuous-integration`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-integration.yml) on `pull_request` | ![continuous-integration](https://github.com/buildersbrewery/sublime-lsl/workflows/continuous-integration/badge.svg?event=pull_request) | None |
-| [`continuous-integration`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-integration.yml) on `push` | ![continuous-integration](https://github.com/buildersbrewery/sublime-lsl/workflows/continuous-integration/badge.svg?event=push) | None |
-| [`continuous-deployment`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-deployment.yml) | ![continuous-deployment](https://github.com/buildersbrewery/sublime-lsl/workflows/continuous-deployment/badge.svg) | Test: <https://da-michele.github.io/da-michele.com/><br> Live: <https://da-michele.com> |
+| [`continuous-integration`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-integration.yml) on `pull_request` | ![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-integration/badge.svg?event=pull_request) | None |
+| [`continuous-integration`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-integration.yml) on `push` | ![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-integration/badge.svg?event=push) | None |
+| [`continuous-deployment`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-deployment.yml) | ![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-deployment/badge.svg) | Test: <https://da-michele.github.io/da-michele.com/><br> Live: <https://da-michele.com> |
 
 ## Community health files
 
