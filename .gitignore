@@ -1,0 +1,28 @@
+# macOS
+
+.DS_Store
+Thumbs.db
+
+# Windows
+
+[Dd]esktop.ini
+
+# Node.js
+
+node_modules/**
+package-lock.json
+
+# Yarn
+
+yarn.lock
+
+# Output
+
+docs/
+!packages/docs/
+
+packages/assets/output/
+
+# Sublime Text
+
+*.sublime-workspace
