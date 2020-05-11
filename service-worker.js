@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7cbe1f35c2059106142468ffd183b4a0"
+    "revision": "5f4084b7f5e5a1d9fc9b71c0ad01a386"
   },
   {
-    "url": "assets/css/0.styles.f72aca21.css",
-    "revision": "f73f89766c6cd303ab741e55594600f1"
+    "url": "assets/css/0.styles.da13f948.css",
+    "revision": "a6659a1341613a8c0037c760050da458"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -178,48 +178,48 @@ self.__precacheManifest = [
     "revision": "4fed6eb018495d14becb3870bcaf8d3f"
   },
   {
-    "url": "assets/js/app.4f061f7d.js",
-    "revision": "3ac1b563c556f951bc6d32585b6712c0"
+    "url": "assets/js/app.50f9985f.js",
+    "revision": "f9b24ca3a64983d43c2a7ebaecb09377"
   },
   {
     "url": "de/help/sales_refunds.html",
-    "revision": "c0e713da897ea057c89b0e79efe0ddf8"
+    "revision": "f9c414da0d289a0ed3e6749663e9c631"
   },
   {
     "url": "de/imprint.html",
-    "revision": "912e38bb475260d7094c36f8c9773a24"
+    "revision": "a60423aa4077a51be7ba0b8fd8c96bb9"
   },
   {
     "url": "de/index.html",
-    "revision": "07731aea5f57939cfb9947fbec4d427c"
+    "revision": "d3422da6e02e70fdbf4dfbd2b1b718c8"
   },
   {
     "url": "de/legal/privacy.html",
-    "revision": "3ffe4fcdd131b52248ef0082df810231"
+    "revision": "2bc46acf15e50520c71c8ecb447b238b"
   },
   {
     "url": "de/legal/terms.html",
-    "revision": "6b7a01547f74cc722fe7197e3b8d5358"
+    "revision": "22c0f0a13996683d104cd0967996ddf2"
   },
   {
     "url": "de/menu.html",
-    "revision": "e53f665afe29f8a239830ac60b606594"
+    "revision": "218fdf28e07d885794fde4ae839e632d"
   },
   {
     "url": "de/privacy.html",
-    "revision": "0f8a98f26510c84831a8ec103dea9767"
+    "revision": "a9abca4298f637de6d9b574740c2e0a2"
   },
   {
     "url": "de/restaurant/about.html",
-    "revision": "60538aa4c3add855113439618aa724a6"
+    "revision": "d99f5ba4b015220cd6c865272245709c"
   },
   {
     "url": "de/restaurant/career.html",
-    "revision": "8480f48786e2f6cb92271e550476a70b"
+    "revision": "014fc28ec61b42c62c5028c72abca183"
   },
   {
     "url": "help/sales_refunds.html",
-    "revision": "ffd8a764e2add2e9e8187b0d4ac581a1"
+    "revision": "afb32303354ced9fbd97b86a2e5d28b2"
   },
   {
     "url": "hero.jpg",
@@ -279,71 +279,71 @@ self.__precacheManifest = [
   },
   {
     "url": "imprint.html",
-    "revision": "9dfbf461dae39d0e0cd4eaa9a04d9997"
+    "revision": "5042dab268948b3884677f028dc40373"
   },
   {
     "url": "index.html",
-    "revision": "4aa241806d4699d5c177102acea60069"
+    "revision": "052ba00e0bae62689902ae587b50bd14"
   },
   {
     "url": "it/help/sales_refunds.html",
-    "revision": "cd235fcd5026f7eb5ff5abf053ed483b"
+    "revision": "b8b49921886fd5c55a50818d0dd5426a"
   },
   {
     "url": "it/imprint.html",
-    "revision": "d5ef003df87bf52639ef8657994dcc95"
+    "revision": "a71977f5e7ee7eaa9950b549b2732d87"
   },
   {
     "url": "it/index.html",
-    "revision": "d7cc9ee152e3cc972d80b819811c9872"
+    "revision": "e9259ce78275dce9e0b1a7dd3f92d39f"
   },
   {
     "url": "it/legal/privacy.html",
-    "revision": "9148b07cfadc966e5f1d2832c3108b96"
+    "revision": "ac20ba2f7f4445649a90a8f649bf6f8d"
   },
   {
     "url": "it/legal/terms.html",
-    "revision": "b49783b9b1cddaa2e7233c3340440190"
+    "revision": "f34b9af0324f97a046f04c6f625ad053"
   },
   {
     "url": "it/menu.html",
-    "revision": "3ce548345da7b89339dc1ead08cb11c6"
+    "revision": "0b62970e6485b6da4caa32683e669c3b"
   },
   {
     "url": "it/privacy.html",
-    "revision": "76e4d9901e7c9611e25cb72f01bca578"
+    "revision": "4911a05def1c333b54da17b783060b3d"
   },
   {
     "url": "it/restaurant/about.html",
-    "revision": "253adb69aa02ec518b0cb9ff9cbabdb7"
+    "revision": "680f971753c7f68a98303513937733b9"
   },
   {
     "url": "it/restaurant/career.html",
-    "revision": "00f0162feea4ba831516273fc119f88f"
+    "revision": "53d236995c4cb30d10d884bdd4caacfd"
   },
   {
     "url": "legal/privacy.html",
-    "revision": "586ca1337a795c31eeef8442c9710561"
+    "revision": "1882c7b7a7afa918a711d1e91fb811d4"
   },
   {
     "url": "legal/terms.html",
-    "revision": "ffe52871d9320afbb0c3db355f3c0207"
+    "revision": "442644beb202a9ace3d8d2a8bada1153"
   },
   {
     "url": "menu.html",
-    "revision": "f219b48a5196a2d4f887e42f60532dfe"
+    "revision": "1bce46543b074bb9655d78a2f168120a"
   },
   {
     "url": "privacy.html",
-    "revision": "7cb020619145c5fbe2b5f9a65c32f241"
+    "revision": "39d154752f8abc3141458a3811d70a49"
   },
   {
     "url": "restaurant/about.html",
-    "revision": "b76c5ac5d8ae23858fac046032ce7110"
+    "revision": "9f44c29d7a1b82b34ba5c6cd6be376a7"
   },
   {
     "url": "restaurant/career.html",
-    "revision": "46cc0eb50fff7f03589cb541c8d7a45a"
+    "revision": "0592bbc31d6a71bc9466008fdaa93efe"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
