@@ -1,0 +1,20 @@
+%YAML 1.2
+---
+
+name: continuous-integration
+on:
+  - push
+  - pull_request
+
+jobs:
+  check-md:
+    name: check-md
+    runs-on: ubuntu-18.04
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: Run check-md
+        run: |
+          cd packages/docs
+          yarn check-md
