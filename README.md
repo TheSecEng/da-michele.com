@@ -1,6 +1,6 @@
 # Ristorante Da Michele Baden-Baden
 
-<https://www.da-michele.com>
+<https://da-michele.com>
 
 ## Workflows statūs
 
