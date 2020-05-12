@@ -31,8 +31,8 @@ module.exports = ctx => ({
   ],
   theme: 'default-prefers-color-scheme',
   themeConfig: {
-    repo: 'da-michele/da-michele.com',
-    editLinks: true,
+    // repo: 'da-michele/da-michele.com',
+    // editLinks: true,
     docsDir: 'docs',
     smoothScroll: true,
     locales: {
