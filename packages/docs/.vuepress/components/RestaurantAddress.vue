@@ -94,9 +94,8 @@
     a
       background-color var(--accentColor)
       display inline-block
-      font-size 1.2rem
       color #fff
-      padding .8rem 1.6rem
+      padding .2rem .2rem
       border-radius 4px
       transition background-color .1s ease
       box-sizing border-box
