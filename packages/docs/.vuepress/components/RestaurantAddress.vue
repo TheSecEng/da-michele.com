@@ -14,6 +14,7 @@
       <a
         href="https://www.google.com/maps/dir//48.786975,8.1936724/@48.786975,8.193672,19z?hl=de"
       >
+        <!-- https://simpleicons.org/icons/googlemaps.svg -->
         <svg
           role="img"
           viewBox="0 0 16 16"
@@ -30,6 +31,7 @@
       <a
         href="https://www.waze.com/ul?ll=48.786975,8.1936724&amp;navigate=yes"
       >
+        <!-- https://simpleicons.org/icons/waze.svg -->
         <svg
           role="img"
           viewBox="0 0 16 16"
@@ -46,6 +48,7 @@
       <a
         href="https://share.here.com/l/48.786975,8.1936724"
       >
+        <!-- https://simpleicons.org/icons/here.svg -->
         <svg
           role="img"
           viewBox="0 0 16 16"
@@ -62,6 +65,7 @@
       <a
         href="https://www.bing.com/maps?cp=48.786975~8.1936724&amp;lvl=19"
       >
+        <!-- https://simpleicons.org/icons/bing.svg -->
         <svg
           role="img"
           viewBox="0 0 16 16"
