@@ -13,61 +13,83 @@ next: ./privacy
 
 ### Tartare di salmone
 
-salmone / avocado / asparagi verdi
+* salmone
+* avocado
+* asparagi verdi
 
 ### Vitello tonnato
 
-vitello / tonno / capperi
+* vitello
+* tonno
+* capperi
 
 ### Calamaretti
 
-calamaretti / pomodori / carciofi
+* calamaretti
+* pomodori
+* carciofi
 
 ### Frittura
 
-Acciughe fritte
+* acciughe fritte
 
 ## Pesce
 
 ### Polpo al Pomodoro
 
-Polpo / pomodori / basilico
+* polpo
+* pomodori
+* basilico
 
 ### Filetto di Branzina e Caponata
 
-filetto di branzina / caponata
+* filetto di branzina
+* caponata
 
 ### Pesce spada alla grillata
 
-pesce spada alla grillata / pomodori / capperi
+* pesce spada alla grillata
+* pomodori
+* capperi
 
 ## Carne
 
 ### Tagliata
 
-tagliata (Black Angus) / rucola / parmigiano / pomodori
+* tagliata (Black Angus)
+* rucola
+* parmigiano
+* pomodori
 
 ### Fegato alla Veneziana
 
-fegato di vitello / cipolle / capperi
+* fegato di vitello
+* cipolle
+* capperi
 
 ### Filetto Taleggio e Tartufo
 
-filetto di manzo / taleggio / tartufo
+* filetto di manzo
+* taleggio
+* tartufo
 
 ## Pasta
 
 ### Gnocchi Taleggio e Asparagi
 
-gnocchi / taleggio / asparagi
+* gnocchi
+* taleggio
+* asparagi
 
 ### Pasta di Salmone e Spinaci
 
-salmone / spinaci
+* salmone
+* spinaci
 
 ### Pasta Salsiccia e Tartufo
 
-salsiccia / tartufo
+* salsiccia
+* tartufo
 
 ## Pizze
 
@@ -81,4 +103,7 @@ Le pizze del Capo
 
 ### Pizza Salsiccia
 
-salsiccia / taleggio / asparagi / pomodori
+* salsiccia
+* taleggio
+* asparagi
+* pomodori

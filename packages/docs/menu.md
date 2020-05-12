@@ -15,19 +15,25 @@ next: ./privacy
 
 ### Tartare di salmone
 
-salmon / avocado / green asparagus
+* salmon
+* avocado
+* green asparagus
 
 ### Vitello tonnato
 
-veal / thuna cream / capers
+* veal
+* thuna cream
+* capers
 
 ### Calamaretti
 
-octopus / tomato / artichoke
+* octopus
+* tomato
+* artichoke
 
 ### Frittura
 
-fried anchovies
+* fried anchovies
 
 ## Pesce
 
@@ -35,15 +41,20 @@ fried anchovies
 
 ### Polpo al Pomodoro
 
-polpo / tomato / basil
+* polpo
+* tomato
+* basil
 
 ### Filetto di Branzina e Caponata
 
-Sea bass fillet / Caponata
+* Sea bass fillet
+* Caponata
 
 ### Pesce spada alla grillata
 
-Grilled swordfish / tomato / capers
+* Grilled swordfish
+* tomato
+* capers
 
 ## Carne
 
@@ -51,15 +62,22 @@ Grilled swordfish / tomato / capers
 
 ### Tagliata
 
-steak (Black Angus) / rucola / parmesan cheese / tomato
+* steak (Black Angus)
+* rucola
+* parmesan cheese
+* tomato
 
 ### Fegato alla Veneziana
 
-veal liver / onions / capers
+* veal liver
+* onions
+* capers
 
 ### Filetto Taleggio e Tartufo
 
-beef fillet / Taleggio-cheese / truffles
+* beef fillet
+* Taleggio-cheese
+* truffles
 
 ## Pasta
 
@@ -67,15 +85,20 @@ beef fillet / Taleggio-cheese / truffles
 
 ### Gnocchi Taleggio e Asparagi
 
-Gnocchi / Taleggio-cheese / asparagus
+
+* gnocchi
+* Taleggio-cheese
+* asparagus
 
 ### Pasta di Salmone e Spinaci
 
-salmon / spinach
+* salmon
+* spinach
 
 ### Pasta Salsiccia e Tartufo
 
-Salsiccia (fresh italian sausage) / truffles
+* salsiccia (fresh italian sausage)
+* truffles
 
 ## Pizze
 
@@ -91,4 +114,7 @@ Pizza of the Chef
 
 ### Pizza Salsiccia
 
-Salsiccia (fresh italian sausage) / Taleggio-cheese / asparagus / tomato
+* salsiccia (fresh italian sausage)
+* Taleggio-cheese
+* asparagus
+* tomato
