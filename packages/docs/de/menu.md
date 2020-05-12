@@ -1,5 +1,6 @@
 ---
 lang: de
+sidebarDepth: 2
 prev: ./imprint
 next: ./privacy
 ---
