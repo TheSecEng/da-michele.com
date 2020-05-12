@@ -1,6 +1,6 @@
 ---
 lang: en
-prev: ../help/sales_refunds
+prev: ../privacy
 ---
 
 # Privacy policy

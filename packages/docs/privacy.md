@@ -1,6 +1,6 @@
 ---
 lang: en
-next: /help/sales_refunds
+next: /legal/privacy
 ---
 
 # Privacy

@@ -16,16 +16,6 @@ module.exports = [
         link: '/de/privacy'
       },
       {
-        text: 'Hilfe',
-        ariaLabel: 'Hilfe',
-        items: [
-          {
-            text: 'Verkauf und Rückerstattung',
-            link: '/de/help/sales_refunds'
-          }
-        ]
-      },
-      {
         text: 'Rechtliche Hinweise',
         ariaLabel: 'Rechtliche Hinweise',
         items: [

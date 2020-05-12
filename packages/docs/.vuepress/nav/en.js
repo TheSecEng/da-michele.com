@@ -16,16 +16,6 @@ module.exports = [
         link: '/privacy'
       },
       {
-        text: 'Help',
-        ariaLabel: 'Help',
-        items: [
-          {
-            text: 'Sales and Refunds',
-            link: '/help/sales_refunds'
-          }
-        ]
-      },
-      {
         text: 'Legal',
         ariaLabel: 'Legal',
         items: [

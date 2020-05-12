@@ -1,6 +1,6 @@
 ---
 lang: de
-prev: ../help/sales_refunds
+prev: ../privacy
 ---
 
 # Datenschutzrichtlinien
