@@ -28,7 +28,7 @@
       </a>
       &nbsp;|&nbsp;
       <a
-        href="https://www.waze.com/ul?ll=48.786975,8.1936724&navigate=yes"
+        href="https://www.waze.com/ul?ll=48.786975,8.1936724&amp;navigate=yes"
       >
         <svg
           role="img"
@@ -60,7 +60,7 @@
       </a>
       &nbsp;|&nbsp;
       <a
-        href="https://www.bing.com/maps?cp=48.786975~8.1936724&lvl=19"
+        href="https://www.bing.com/maps?cp=48.786975~8.1936724&amp;lvl=19"
       >
         <svg
           role="img"
