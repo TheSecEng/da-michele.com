@@ -13,7 +13,6 @@
     <p>
       <a
         href="https://www.google.com/maps/dir//48.786975,8.1936724/@48.786975,8.193672,19z?hl=de"
-        class="action-button"
       >
         <!-- https://simpleicons.org/icons/googlemaps.svg -->
         <svg
@@ -32,7 +31,6 @@
       &nbsp;|&nbsp;
       <a
         href="https://www.waze.com/ul?ll=48.786975,8.1936724&amp;navigate=yes"
-        class="action-button"
       >
         <!-- https://simpleicons.org/icons/waze.svg -->
         <svg
@@ -51,7 +49,6 @@
       &nbsp;|&nbsp;
       <a
         href="https://share.here.com/l/48.786975,8.1936724"
-        class="action-button"
       >
         <!-- https://simpleicons.org/icons/here.svg -->
         <svg
@@ -70,7 +67,6 @@
       &nbsp;|&nbsp;
       <a
         href="https://www.bing.com/maps?cp=48.786975~8.1936724&amp;lvl=19"
-        class="action-button"
       >
         <!-- https://simpleicons.org/icons/bing.svg -->
         <svg
@@ -94,4 +90,15 @@
 .address
   padding 0.5em
   margin 1em 0 !important
+  p
+    a
+      background-color var(--accentColor)
+      display inline-block
+      font-size 1.2rem
+      color #fff
+      padding .8rem 1.6rem
+      border-radius 4px
+      transition background-color .1s ease
+      box-sizing border-box
+      border-bottom 1px solid var(--accentColor)
 </style>
