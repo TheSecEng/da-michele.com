@@ -84,7 +84,7 @@
 
 <style lang="stylus">
 svg
-  color var(--textColor)
+  fill var(--textColor)
 
 .address
   padding 0.5em
