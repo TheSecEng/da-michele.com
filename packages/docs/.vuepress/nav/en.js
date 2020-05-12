@@ -4,6 +4,10 @@ module.exports = [
     ariaLabel: 'Menu',
     items: [
       {
+        text: 'Home',
+        link: '/'
+      },
+      {
         text: 'Imprint',
         link: '/imprint'
       },
