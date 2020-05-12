@@ -13,11 +13,11 @@
     >Google Maps</a>
     &nbsp;|&nbsp;
     <a
-      href="https://share.here.com/l/48.78701,8.19363"
+      href="https://share.here.com/l/48.786975,8.1936724"
     >Here Maps</a>
     &nbsp;|&nbsp;
     <a
-      href="https://www.bing.com/maps?cp=48.787066~8.19306&lvl=19"
+      href="https://www.bing.com/maps?cp=48.786975~8.1936724&lvl=19"
     >Bing Maps</a>
   </address>
 </template>
