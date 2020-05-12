@@ -83,6 +83,9 @@
 </template>
 
 <style lang="stylus">
+svg
+  color var(--textColor)
+
 .address
   padding 0.5em
   margin 1em 0 !important
