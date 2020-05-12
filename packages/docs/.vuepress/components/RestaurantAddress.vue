@@ -99,5 +99,5 @@
       border-radius 4px
       transition background-color .1s ease
       box-sizing border-box
-      border-bottom 1px solid var(--accentColor)
+      border-bottom 1px solid var(--darken10AccentColor)
 </style>
