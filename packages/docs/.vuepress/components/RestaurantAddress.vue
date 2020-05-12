@@ -16,6 +16,10 @@
       >Google Maps</a>
       &nbsp;|&nbsp;
       <a
+        href="https://www.waze.com/ul?ll=48.786975,8.1936724&navigate=yes"
+      >Waze</a>
+      &nbsp;|&nbsp;
+      <a
         href="https://share.here.com/l/48.786975,8.1936724"
       >Here Maps</a>
       &nbsp;|&nbsp;
