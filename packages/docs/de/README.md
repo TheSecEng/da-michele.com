@@ -10,3 +10,11 @@ footer: MIT Lizensiert | Urheberrechte (c) 2020, Ristorante da Michele Baden-Bad
 # Ristorante da Michele Baden-Baden
 
 <RestaurantAddress/>
+
+::: tip
+This page is also available [in English](../).
+:::
+
+::: tip Suggerimento
+Questa pagina è disponibile anche [in italiano](../it/).
+:::
