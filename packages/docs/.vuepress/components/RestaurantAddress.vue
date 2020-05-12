@@ -17,7 +17,7 @@
         <!-- https://simpleicons.org/icons/googlemaps.svg -->
         <svg
           role="img"
-          viewBox="0 0 16 16"
+          viewBox="0 0 24 24"
           width="16"
           height="16"
           xmlns="http://www.w3.org/2000/svg"
@@ -34,7 +34,7 @@
         <!-- https://simpleicons.org/icons/waze.svg -->
         <svg
           role="img"
-          viewBox="0 0 16 16"
+          viewBox="0 0 24 24"
           width="16"
           height="16"
           xmlns="http://www.w3.org/2000/svg"
@@ -51,7 +51,7 @@
         <!-- https://simpleicons.org/icons/here.svg -->
         <svg
           role="img"
-          viewBox="0 0 16 16"
+          viewBox="0 0 24 24"
           width="16"
           height="16"
           xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +68,7 @@
         <!-- https://simpleicons.org/icons/bing.svg -->
         <svg
           role="img"
-          viewBox="0 0 16 16"
+          viewBox="0 0 24 24"
           width="16"
           height="16"
           xmlns="http://www.w3.org/2000/svg"
