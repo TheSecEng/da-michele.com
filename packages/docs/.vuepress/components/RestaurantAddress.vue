@@ -17,6 +17,7 @@
         <svg
           role="img"
           viewBox="0 0 24 24"
+          size="16px"
           xmlns="http://www.w3.org/2000/svg"
         >
           <title>Google Maps icon</title>
@@ -31,6 +32,7 @@
       <svg
         role="img"
         viewBox="0 0 24 24"
+          size="16px"
         xmlns="http://www.w3.org/2000/svg"
       >
         <title>Waze icon</title>
@@ -45,6 +47,7 @@
       <svg
         role="img"
         viewBox="0 0 24 24"
+          size="16px"
         xmlns="http://www.w3.org/2000/svg"
       >
         <title>HERE icon</title>
@@ -59,6 +62,7 @@
         <svg
           role="img"
           viewBox="0 0 24 24"
+          size="16px"
           xmlns="http://www.w3.org/2000/svg"
         >
           <title>Bing icon</title>
