@@ -19,7 +19,7 @@
       </a>
       &nbsp;|&nbsp;
       <a
-        href="https://www.waze.com/ul?ll=48.786975,8.1936724&amp;navigate=yes"
+        href="https://www.waze.com/ul?q=Da%20Michele&amp;ll=48.786975,8.1936724&amp;navigate=yes"
       >
         <!-- https://simpleicons.org/icons/waze.svg -->
         <svg
@@ -36,7 +36,7 @@
       </a>
       &nbsp;|&nbsp;
       <a
-        href="https://share.here.com/l/48.786975,8.1936724"
+        href="https://share.here.com/r/mylocation/48.786975,8.1936724?m=d"
       >
         <!-- https://simpleicons.org/icons/here.svg -->
         <svg
