@@ -114,7 +114,10 @@ module.exports = ctx => ({
         transformer: (timestamp, lang) => {
           const moment = require('moment')
           moment.locale(lang)
-          return moment(timestamp).fromNow()
+          // FIXME: hard codes text of diff of (dateTimeBuild - dateTimeGitCommit)
+          //        as in a STATIC "Last updated: a minute ago"
+          // return moment(timestamp).fromNow()
+          return moment(timestamp)
         }
       }
     ],
