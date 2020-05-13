@@ -105,7 +105,19 @@ module.exports = ctx => ({
     ['@vuepress/active-header-links'],
     ['@vuepress/back-to-top'],
     // ['@vuepress/blog'],
-    ['@vuepress/last-updated'],
+    [
+      '@vuepress/last-updated',
+      {
+        dateOptions: {
+          hours12: false
+        },
+        transformer: (timestamp, lang) => {
+          const moment = require('moment')
+          moment.locale(lang)
+          return moment(timestamp).fromNow()
+        }
+      }
+    ],
     ['@vuepress/medium-zoom'],
     ['@vuepress/pwa', {
       serviceWorker: true,
