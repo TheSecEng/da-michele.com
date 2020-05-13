@@ -2,7 +2,7 @@
   <div class="gps-nav-apps-buttons">
     <p>
       <a
-        href="https://www.google.com/maps/dir/?api=1&amp;destination=48.786975,8.1936724&amp;travelmode=driving&amp;dir_action=navigate"
+        href="https://www.google.com/maps/dir//48.786975,8.1936724/@48.786975,8.193672,19z?api=1&amp;travelmode=driving&amp;dir_action=navigate"
       >
         <!-- https://simpleicons.org/icons/googlemaps.svg -->
         <svg
