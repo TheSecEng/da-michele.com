@@ -6,11 +6,11 @@ actionText: Wochenmenü →
 actionLink: /de/menu
 ---
 
-::: tip Tip :us: :uk:
+::: tip Tip
 This page is also available [in English](../).
 :::
 
-::: tip Suggerimento :it:
+::: tip Suggerimento
 Questa pagina è disponibile anche [in italiano](../it/).
 :::
 

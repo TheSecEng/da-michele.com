@@ -6,11 +6,11 @@ actionText: This week's menu →
 actionLink: /menu
 ---
 
-::: tip Hinweis :de:
+::: tip Hinweis
 Diese Seite ist auch [auf Deutsch](./de/) verfügbar.
 :::
 
-::: tip Suggerimento :it:
+::: tip Suggerimento
 Questa pagina è disponibile anche [in italiano](./it/).
 :::
 
