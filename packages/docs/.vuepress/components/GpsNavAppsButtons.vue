@@ -68,6 +68,23 @@
         </svg>
         <span>Bing Maps</span>
       </a>
+      &nbsp;|&nbsp;
+      <a
+        href="navigon://address/Da%20Michele/DEU/76532/Baden-Baden/Sinzheimer%20Str./4/48.786975/8.1936724/"
+      >
+        <!-- https://simpleicons.org/icons/garmin.svg -->
+        <svg
+          role="img"
+          viewBox="0 0 24 24"
+          width="16"
+          height="16"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <title>Garmin icon</title>
+          <path d="M22.017 22.67H1.984c-.77 0-1.388-.383-1.694-1.002-.387-.61-.387-1.39 0-2.002L10.304 2.33c.385-.615 1.002-1 1.695-1 .77 0 1.386.385 1.69 1l10.02 17.336c.387.617.387 1.39 0 2.002-.31.695-.927 1.002-1.693 1.002z"/>
+        </svg>
+        <span>NAVIGON (Garmin)</span>
+      </a>
     </p>
   </div>
 </template>
