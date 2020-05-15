@@ -9,6 +9,8 @@ prev: ../legal/terms
 
 <RestaurantAddress/>
 
+<GpsNavAppsButtons/>
+
 ## Orari
 
 | Giorno feriale | Mezzogiorno | Sera    |
@@ -23,4 +25,4 @@ prev: ../legal/terms
 
 ## Contatti
 
-<ContactUs/>
+<SocialButtons/>

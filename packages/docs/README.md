@@ -14,6 +14,6 @@ Diese Seite ist auch [auf Deutsch](./de/) verfügbar.
 Questa pagina è disponibile anche [in italiano](./it/).
 :::
 
-## Address
+## Contact us
 
-<RestaurantAddress/>
+<ContactUs/>

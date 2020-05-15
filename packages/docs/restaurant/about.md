@@ -9,6 +9,8 @@ prev: ../legal/terms
 
 <RestaurantAddress/>
 
+<GpsNavAppsButtons/>
+
 ## Opening hours
 
 | Weekday   | Noon    | Evening |
@@ -23,4 +25,4 @@ prev: ../legal/terms
 
 ## Contact
 
-<ContactUs/>
+<SocialButtons/>

@@ -1,7 +1,10 @@
 <template>
   <div class="contact-us">
-    Contact us at:<br>
     <RestaurantAddress/>
+    <br>
+    <GpsNavAppsButtons/>
+    <br>
+    <SocialButtons/>
   </div>
 </template>
 
