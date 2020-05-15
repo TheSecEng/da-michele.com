@@ -14,5 +14,5 @@ Puoi trovare l'informativa sulla privacy [qui](../it/legal/privacy.md#norme-sull
 ::: warning
 Le nostre informazioni sulla protezione dei dati sono disponibili solo in tedesco, per motivi legali.
 
-Potete trovare [qui](../de/privacy.md#datenschutz).
+Potete trovare [qui](../de/privacy.md#datenschutzerklarung).
 :::

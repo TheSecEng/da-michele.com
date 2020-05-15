@@ -16,7 +16,7 @@ module.exports = [
         link: '/de/menu'
       },
       {
-        text: 'Datenschutz',
+        text: 'Datenschutzerklärung',
         link: '/de/privacy'
       },
       {

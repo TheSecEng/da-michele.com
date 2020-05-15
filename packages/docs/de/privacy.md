@@ -3,10 +3,10 @@ lang: de
 next: ./legal/privacy
 ---
 
-# Datenschutz
+# Datenschutzerklärung
 
 ::: tip Hinweis
-Nachfolgend findest du unsere Angaben zum Datenschutz.
+Nachfolgend findest Du unsere Datenschutzerklärung.
 
 Die Datenschutzrichtlinien findest du [hier](../de/legal/privacy.md#datenschutzrichtlinien).
 :::

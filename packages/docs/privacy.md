@@ -14,5 +14,5 @@ You can find our privacy policy [here](./legal/privacy.md#privacy-policy).
 ::: warning
 Our Data Protection Information is only available in German, due to legal reasons.
 
-You can find it [here](./de/privacy.md#datenschutz).
+You can find it [here](./de/privacy.md#datenschutzerklarung).
 :::
