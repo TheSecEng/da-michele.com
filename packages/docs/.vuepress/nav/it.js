@@ -28,7 +28,7 @@ module.exports = [
             link: '/it/legal/privacy'
           },
           {
-            text: "Condizioni d'uso",
+            text: "Termini di servizio e Condizioni d'uso",
             link: '/it/legal/terms'
           }
         ]

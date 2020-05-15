@@ -36,7 +36,7 @@ Unsere Nutzungsbedingungen findest Du [hier](./legal/terms.md#nutzungsbedingunge
 
 ## Allgemeine Geschäftsbedingungen
 
-Unsere AGB findest Du [hier](./legal/terms.md#allgemeine-geschaftsbedingungen).
+Unsere Allgemeinen Geschäftsbedingungen findest Du [hier](./legal/terms.md#allgemeine-geschaftsbedingungen).
 
 ## Benachrichtigungen über Änderungen
 
