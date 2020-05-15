@@ -15,25 +15,19 @@ next: ./privacy
 
 ### Tartare di salmone
 
-* Lachs
-* Avocado
-* grüner Spargel
+Lachs | Avocado | grüner Spargel
 
 ### Vitello tonnato
 
-* Kalbfleisch
-* Thunfischcreme
-* Kapern
+Kalbfleisch | Thunfischcreme | Kapern
 
 ### Calamaretti
 
-* Tintenfisch
-* Tomate
-* Artischocken
+Tintenfisch | Tomate | Artischocken
 
 ### Frittura
 
-* Frittierte Sardellen
+Frittierte Sardellen
 
 ## Pesce
 
@@ -41,20 +35,15 @@ next: ./privacy
 
 ### Polpo al Pomodoro
 
-* Polpo
-* Tomaten
-* Basilikum
+Polpo | Tomaten | Basilikum
 
 ### Filetto di Branzina e Caponata
 
-* Wolfsbarschfilet
-* Caponata
+Wolfsbarschfilet | Caponata
 
 ### Pesce spada alla grillata
 
-* Schwertfisch
-* Tomaten
-* Kapern
+Schwertfisch | Tomaten | Kapern
 
 ## Carne
 
@@ -62,22 +51,15 @@ next: ./privacy
 
 ### Tagliata
 
-* Steak (Black Angus)
-* Rucola
-* Parmesan
-* Tomate
+Steak (Black Angus) | Rucola | Parmesan | Tomate
 
 ### Fegato alla Veneziana
 
-* Kalbsleber
-* Zwiebeln
-* Kapern
+Kalbsleber | Zwiebeln | Kapern
 
 ### Filetto Taleggio e Tartufo
 
-* Rinderfilet
-* Taleggio (Ital. Kuhmilchkäse)
-* Trüffel
+Rinderfilet | Taleggio (Ital. Kuhmilchkäse) | Trüffel
 
 ## Pasta
 
@@ -85,19 +67,15 @@ next: ./privacy
 
 ### Gnocchi Taleggio e Asparagi
 
-* Gnocchi
-* Taleggio (Ital. Kuhmilchkäse)
-* Spargel
+Gnocchi | Taleggio (Ital. Kuhmilchkäse) | Spargel
 
 ### Pasta di Salmone e Spinaci
 
-* Lachs
-* Spinat
+Lachs | Spinat
 
 ### Pasta Salsiccia e Tartufo
 
-* Salsiccia (ital. Frischwurst)
-* Trüffel
+Salsiccia (ital. Frischwurst) | Trüffel
 
 ## Pizze
 
@@ -113,7 +91,4 @@ Die Pizzen vom Chef
 
 ### Pizza Salsiccia
 
-* Salsiccia (ital. Frischwurst)
-* Taleggio (Ital. Kuhmilchkäse)
-* Spargel
-* Tomate
+Salsiccia (ital. Frischwurst) | Taleggio (Ital. Kuhmilchkäse) | Spargel | Tomate
