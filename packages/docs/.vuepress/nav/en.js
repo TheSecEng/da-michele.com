@@ -1,7 +1,7 @@
 module.exports = [
   {
-    text: 'Menu',
-    ariaLabel: 'Menu',
+    text: 'Sitemap',
+    ariaLabel: 'Sitemap',
     items: [
       {
         text: 'Home',
