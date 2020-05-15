@@ -1,6 +1,6 @@
 {
     "name": "da-michele",
-    "version": "0.20200512.0",
+    "version": "0.20200515.0",
     "private": true,
     "description": "Ristorante da Michele",
     "homepage": "https://github.com/da-michele/da-michele.com#readme",
@@ -28,6 +28,7 @@
         "moment": "^2.25.3",
         "vuepress": "^1.5.0",
         "vuepress-plugin-check-md": "^0.0.2",
+        "vuepress-plugin-element-ui": "^1.1.0",
         "vuepress-theme-default-prefers-color-scheme": "^1.0.7"
     }
 }

@@ -13,6 +13,8 @@ next: ./privacy
 
 > Starters
 
+<ElementUiCarousel/>
+
 ### Tartare di salmone
 
 salmon | avocado | green asparagus

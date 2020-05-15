@@ -11,6 +11,8 @@ next: ./privacy
 
 ## Antipasti
 
+<ElementUiCarousel/>
+
 ### Tartare di salmone
 
 salmone | avocado | asparagi verdi

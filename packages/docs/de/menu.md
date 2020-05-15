@@ -13,6 +13,8 @@ next: ./privacy
 
 > Vorspeisen
 
+<ElementUiCarousel/>
+
 ### Tartare di salmone
 
 Lachs | Avocado | grüner Spargel
