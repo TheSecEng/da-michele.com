@@ -37,7 +37,7 @@
       </a>
       &nbsp;|&nbsp;
       <a
-        href="navigoneu://address/Da%20Michele/DEU/76532/Baden-Baden/Sinzheimer%20Str./4/48.786975/8.1936724/"
+        href="navigoneu://address/Ristorante%20Da%20Michele/DEU/76532/Baden-Baden/Sinzheimer%20Str./4/48.786975/8.1936724/"
       >
         <!-- https://simpleicons.org/icons/garmin.svg -->
         <svg
