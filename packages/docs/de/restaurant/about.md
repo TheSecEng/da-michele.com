@@ -9,7 +9,7 @@ prev: ../legal/terms
 
 <RestaurantAddress/>
 
-<GpsNavButtons/>
+<GpsNavAppsButtons/>
 
 ## Öffnungszeiten
 
