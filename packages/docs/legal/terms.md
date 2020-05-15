@@ -8,5 +8,5 @@ next: ../restaurant/about
 ::: warning
 Our Terms of Use are only available in German, due to legal reasons.
 
-You can find them [here](../de/legal/terms.md#nutzungsbedingungen).
+You can find them [here](../de/legal/terms.md).
 :::
