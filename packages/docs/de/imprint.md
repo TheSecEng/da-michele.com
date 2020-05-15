@@ -30,7 +30,7 @@ Baden-Baden
 
 ...
 
-## Nutzung der **Ristorante Da Michele Baden-Baden** Webseite
+## Nutzungsbedingungen
 
 Unsere Nutzungsbedingungen findest Du [hier](./legal/terms.md#nutzungsbedingungen).
 
