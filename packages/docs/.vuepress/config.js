@@ -52,7 +52,6 @@ module.exports = ctx => ({
         },
         sidebar: {
           '/restaurant/': ['about', 'career'],
-          '/help/': ['sales_refunds'],
           '/legal/': ['privacy', 'terms'],
           '/': ['', 'imprint', 'menu', 'privacy']
         }
@@ -73,7 +72,6 @@ module.exports = ctx => ({
         },
         sidebar: {
           '/de/restaurant/': ['about', 'career'],
-          '/de/help/': ['sales_refunds'],
           '/de/legal/': ['privacy', 'terms'],
           '/de/': ['', 'imprint', 'menu', 'privacy']
         }
@@ -94,7 +92,6 @@ module.exports = ctx => ({
         },
         sidebar: {
           '/it/restaurant/': ['about', 'career'],
-          '/it/help/': ['sales_refunds'],
           '/it/legal/': ['privacy', 'terms'],
           '/it/': ['', 'imprint', 'menu', 'privacy']
         }
