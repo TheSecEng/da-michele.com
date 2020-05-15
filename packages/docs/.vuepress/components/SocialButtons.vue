@@ -18,8 +18,7 @@
         </svg>
         <span>Like us on Facebook</span>
       </a>
-      <!-- Flickr -->
-      <!-- GitHub -->
+      <!-- Flickr, GitHub -->
       &nbsp;|&nbsp;
       <a
         href="https://www.instagram.com/da_michele_badenbaden/"
@@ -37,17 +36,7 @@
         </svg>
         <span>Follow us on Instagram</span>
       </a>
-      <!-- LinkedIn -->
-      <!-- Pinterest -->
-      <!-- Reddit -->
-      <!-- Signal -->
-      <!-- Sina Weibo -->
-      <!-- Snapchat -->
-      <!-- Telegram -->
-      <!-- TikTok -->
-      <!-- Twitter -->
-      <!-- WeChat -->
-      <!-- Vimeo -->
+      <!-- LinkedIn, Pinterest, Reddit, Signal, Sina Weibo, Snapchat, Telegram, TikTok, Twitter, WeChat, Vimeo -->
       &nbsp;|&nbsp;
       <a
         href="https://wa.me/491772881228"
@@ -65,8 +54,7 @@
         </svg>
         <span>Chat via WhatsApp</span>
       </a>
-      <!-- Yelp -->
-      <!-- Youtube -->
+      <!-- Yelp, Youtube -->
     </p>
   </div>
 </template>
