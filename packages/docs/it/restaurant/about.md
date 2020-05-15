@@ -11,15 +11,15 @@ prev: ../legal/terms
 
 ## Orari
 
-| Giorno feriale | Mezzogiorno   | Sera          |
-| -------------- |:-------------:|:-------------:|
-| Lunedi         | 12:00 - 14:00 | 18:00 - 20:00 |
-| Martedi        | chiuso        | chiuso        |
-| Mercoledi      | 12:00 - 14:00 | 18:00 - 20:00 |
-| Giovedi        | 12:00 - 14:00 | 18:00 - 20:00 |
-| Venerdi        | 12:00 - 14:00 | 18:00 - 20:00 |
-| Sabato         | 12:00 - 14:00 | 18:00 - 20:00 |
-| Domenica       | chiuso        | 18:00 - 20:00 |
+| Giorno feriale | Mezzogiorno | Sera    |
+| -------------- |:-----------:|:-------:|
+| Lunedi         | 12 - 14     | 18 - 20 |
+| Martedi        | chiuso      | chiuso  |
+| Mercoledi      | 12 - 14     | 18 - 20 |
+| Giovedi        | 12 - 14     | 18 - 20 |
+| Venerdi        | 12 - 14     | 18 - 20 |
+| Sabato         | 12 - 14     | 18 - 20 |
+| Domenica       | chiuso      | 18 - 20 |
 
 ## Contatti
 

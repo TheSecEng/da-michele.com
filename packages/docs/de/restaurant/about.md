@@ -11,15 +11,15 @@ prev: ../legal/terms
 
 ## Öffnungszeiten
 
-| Wochentag  | Mittags       | Abends        |
-| ---------- |:-------------:|:-------------:|
-| Montag     | 12:00 - 14:00 | 18:00 - 20:00 |
-| Dienstag   | Geschlossen   | Geschlossen   |
-| Mittwoch   | 12:00 - 14:00 | 18:00 - 20:00 |
-| Donnerstag | 12:00 - 14:00 | 18:00 - 20:00 |
-| Freitag    | 12:00 - 14:00 | 18:00 - 20:00 |
-| Samstag    | 12:00 - 14:00 | 18:00 - 20:00 |
-| Sonntag    | Geschlossen   | 18:00 - 20:00 |
+| Wochentag  | Mittags     | Abends      |
+| ---------- |:-----------:|:-----------:|
+| Montag     | 12 - 14     | 18 - 20     |
+| Dienstag   | Geschlossen | Geschlossen |
+| Mittwoch   | 12 - 14     | 18 - 20     |
+| Donnerstag | 12 - 14     | 18 - 20     |
+| Freitag    | 12 - 14     | 18 - 20     |
+| Samstag    | 12 - 14     | 18 - 20     |
+| Sonntag    | Geschlossen | 18 - 20     |
 
 ## Kontakt
 

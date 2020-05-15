@@ -11,15 +11,15 @@ prev: ../legal/terms
 
 ## Opening hours
 
-| Weekday   | Noon          | Evening       |
-| --------- |:-------------:|:-------------:|
-| Monday    | 12:00 - 14:00 | 18:00 - 20:00 |
-| Tuesday   | Closed        | Closed        |
-| Wednesday | 12:00 - 14:00 | 18:00 - 20:00 |
-| Thursday  | 12:00 - 14:00 | 18:00 - 20:00 |
-| Friday    | 12:00 - 14:00 | 18:00 - 20:00 |
-| Saturday  | 12:00 - 14:00 | 18:00 - 20:00 |
-| Sunday    | Closed        | 18:00 - 20:00 |
+| Weekday   | Noon    | Evening |
+| --------- |:-------:|:-------:|
+| Monday    | 12 - 14 | 18 - 20 |
+| Tuesday   | Closed  | Closed  |
+| Wednesday | 12 - 14 | 18 - 20 |
+| Thursday  | 12 - 14 | 18 - 20 |
+| Friday    | 12 - 14 | 18 - 20 |
+| Saturday  | 12 - 14 | 18 - 20 |
+| Sunday    | Closed  | 18 - 20 |
 
 ## Contact
 
