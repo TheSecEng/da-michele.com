@@ -1,8 +1,6 @@
 ---
 lang: it
 sidebarDepth: 2
-prev: ./imprint
-next: ./privacy
 ---
 
 # Menu
