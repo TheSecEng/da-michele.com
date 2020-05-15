@@ -13,18 +13,6 @@ next: ./privacy
 
 > Vorspeisen
 
-:::: el-carousel height="150px" type="card"
-::: el-carousel-item
-![placeholder image](https://via.placeholder.com/300x100.png?text=Da+Michele+Test1)
-:::
-::: el-carousel-item
-![placeholder image](https://via.placeholder.com/300x100.png?text=Da+Michele+Test2)
-:::
-::: el-carousel-item
-![placeholder image](https://via.placeholder.com/300x100.png?text=Da+Michele+Test3)
-:::
-::::
-
 ### Tartare di salmone
 
 Lachs | Avocado | grüner Spargel

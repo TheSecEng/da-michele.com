@@ -126,8 +126,7 @@ module.exports = ctx => ({
     ['@vuepress/search', {
       searchMaxSuggestions: 10
     }],
-    ['check-md'],
-    ['element-ui']
+    ['check-md']
   ],
   extraWatchFiles: [
     '.vuepress/nav/en.js',
