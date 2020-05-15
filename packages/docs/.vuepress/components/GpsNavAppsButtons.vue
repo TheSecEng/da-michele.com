@@ -1,9 +1,8 @@
 <template>
   <div class="gps-nav-apps-buttons">
     <p>
-      <!-- https://www.google.com/maps/dir//48.786975,8.1936724/@48.786975,8.1936724,19z -->
       <a
-        href="https://www.google.com/maps/dir/?api=1&origin=&destination=Ristorante+Da+Michele%2C+Sinzheimer+Str.+4%2C+76532+Baden-Baden%2C+Germany&travelmode=driving&dir_action=navigate&center=48.786975,8.1936724&zoom=19&basemap=roadmap&layer=traffic"
+        href="https://www.google.com/maps/dir/?api=1&amp;origin=&amp;destination=Ristorante+Da+Michele%2C+Sinzheimer+Str.+4%2C+76532+Baden-Baden%2C+Germany&amp;travelmode=driving&amp;dir_action=navigate&amp;center=48.786975,8.1936724&amp;zoom=19&amp;basemap=roadmap&amp;layer=traffic"
       >
         <!-- https://simpleicons.org/icons/googlemaps.svg -->
         <svg
@@ -60,7 +59,7 @@
       </a>
       &nbsp;|&nbsp;
       <a
-        href="https://www.waze.com/ul?q=Da%20Michele&amp;ll=48.786975,8.1936724&amp;navigate=yes"
+        href="https://www.waze.com/ul?q=Ristorante%20Da%20Michele&amp;ll=48.786975,8.1936724&amp;navigate=yes"
       >
         <!-- https://simpleicons.org/icons/waze.svg -->
         <svg
