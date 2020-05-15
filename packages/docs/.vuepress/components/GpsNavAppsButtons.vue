@@ -1,8 +1,9 @@
 <template>
   <div class="gps-nav-apps-buttons">
     <p>
+      <!-- https://www.google.com/maps/dir//48.786975,8.1936724/@48.786975,8.1936724,19z -->
       <a
-        href="https://www.google.com/maps/dir//48.786975,8.1936724/@48.786975,8.193672,19z"
+        href="https://www.google.com/maps/dir/?api=1&origin=&destination=Ristorante+Da+Michele%2C+Sinzheimer+Str.+4%2C+76532+Baden-Baden%2C+Germany&travelmode=driving&dir_action=navigate&center=48.786975,8.1936724&zoom=19&basemap=roadmap&layer=traffic"
       >
         <!-- https://simpleicons.org/icons/googlemaps.svg -->
         <svg
