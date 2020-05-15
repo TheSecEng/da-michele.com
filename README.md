@@ -2,7 +2,7 @@
 
 <https://da-michele.com>
 
-## Workflows statūs
+## Statūs of our workflows is use
 
 | Workflow | Status | Output |
 |----------|--------|--------|
