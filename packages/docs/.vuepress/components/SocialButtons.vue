@@ -1,7 +1,25 @@
 <template>
   <div class="social-buttons">
+    <!--
+      TODO:
+            Discord,
+            Flickr,
+            GitHub,
+            LinkedIn,
+            Pinterest,
+            Reddit,
+            Signal,
+            Sina Weibo,
+            Snapchat,
+            Telegram,
+            TikTok,
+            Twitter,
+            WeChat,
+            Vimeo,
+            Yelp,
+            Youtube
+    -->
     <p>
-      <!-- Discord -->
       <a
         href="https://www.facebook.com/pages/category/Italian-Restaurant/Pizzeria-Da-Michele-2293017134358842/"
       >
@@ -18,7 +36,6 @@
         </svg>
         <span>Like us on Facebook</span>
       </a>
-      <!-- Flickr, GitHub -->
       &nbsp;|&nbsp;
       <a
         href="https://www.instagram.com/da_michele_badenbaden/"
@@ -36,7 +53,6 @@
         </svg>
         <span>Follow us on Instagram</span>
       </a>
-      <!-- LinkedIn, Pinterest, Reddit, Signal, Sina Weibo, Snapchat, Telegram, TikTok, Twitter, WeChat, Vimeo -->
       &nbsp;|&nbsp;
       <a
         href="https://wa.me/491772881228"
@@ -54,7 +70,6 @@
         </svg>
         <span>Chat via WhatsApp</span>
       </a>
-      <!-- Yelp, Youtube -->
     </p>
   </div>
 </template>
