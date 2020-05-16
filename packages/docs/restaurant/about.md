@@ -25,4 +25,4 @@ prev: ../legal/terms
 
 ## Contact
 
-<SocialButtons/>
+<ContactButtons/>

@@ -81,7 +81,7 @@ Die Datenschutzrichtlinien findest du [hier](../de/legal/privacy.md#datenschutzr
 
 ## Links zu anderen Webseiten und Social Media
 
-...
+<ContactButtons/>
 
 ## Sicherheit
 

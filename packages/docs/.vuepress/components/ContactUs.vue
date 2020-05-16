@@ -4,7 +4,7 @@
     <br>
     <GpsNavAppsButtons/>
     <br>
-    <SocialButtons/>
+    <ContactButtons/>
   </div>
 </template>
 
