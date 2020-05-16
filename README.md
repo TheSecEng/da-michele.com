@@ -2,12 +2,12 @@
 
 <https://da-michele.com>
 
-## Statūs of our workflows in use
+## Statūs of workflows in use
 
-| Workflow | Status | Output |
-|----------|--------|--------|
-| [`continuous-integration`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-integration.yml) on `push` | ![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-integration/badge.svg?event=push) | None |
-| [`continuous-deployment`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-deployment.yml) | ![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-deployment/badge.svg) | Test: <https://da-michele.github.io/da-michele.com/><br> Live: <https://da-michele.com> |
+| Workflow status | Information |
+| --------------- | ----------- |
+| [![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-integration/badge.svg?event=push) on `push`](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-integration.yml) | Test for dead links in `Markdown` documents |
+| [![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-deployment/badge.svg)](https://github.com/da-michele/da-michele.com/blob/master/.github/workflows/continuous-deployment.yml) | Test: <https://da-michele.github.io/da-michele.com/><br>Live: <https://da-michele.com> |
 
 ## Community health files
 
