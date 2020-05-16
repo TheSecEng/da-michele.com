@@ -1,10 +1,12 @@
 name: continuous-integration
+
 on:
   push:
     branches:
       - master
     paths:
       - 'packages/docs/**/*.md'
+
   pull_request:
     paths:
       - 'packages/docs/**/*.md'
@@ -14,7 +16,9 @@ jobs:
     name: check-md
     runs-on: ubuntu-18.04
     steps:
+
       - uses: actions/checkout@v2
+
       - name: Run check-md
         run: |
           cd packages/docs
