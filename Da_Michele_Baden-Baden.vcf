@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ristorante da Michele;;;;
+FN:Ristorante da Michele
+TEL;TYPE=work,voice,pref:+49722161541
+EMAIL;TYPE=work,internet,pref:info@da-michele.com
+ADR;TYPE=work,pref:;;Sinzheimerstr. 4;Baden-Baden;;76532;Deutschland
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/pages/category/Italian-Restaurant/Pizzeria-Da-Michele-2293017134358842/
+X-SOCIALPROFILE;type=github:https://github.com/da-michele/
+X-SOCIALPROFILE;type=instagram:https://www.instagram.com/da_michele_badenbaden/
+END:VCARD
