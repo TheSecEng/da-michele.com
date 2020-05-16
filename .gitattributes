@@ -2,3 +2,8 @@
 
 .gitattributes              export-ignore
 .gitignore                  export-ignore
+
+*.afdesign                  binary
+*.jpg                       binary
+*.png                       binary
+*.svg                       text
