@@ -10,6 +10,8 @@ Anbieter laut [§ 5 Telemediengesetz](https://www.gesetze-im-internet.de/tmg/__5
 
 <RestaurantAddress/>
 
+<GpsNavAppsButtons/>
+
 ## Inhaber
 
 Michele Romano
@@ -49,8 +51,8 @@ Unsere Allgemeinen Geschäftsbedingungen findest Du [hier](./legal/terms.md#allg
 Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet.
 Wir nehmen an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle auch nicht teil.
 
-Verbraucherinformation gemäß Verordnung `EU Nr. 524 / 2013`:
+**Verbraucherinformation gemäß Verordnung `EU Nr. 524 / 2013`**:
 
-> Die Online-Streitbeilegungsplatform der EU-Kommission finden Sie unter
+Die Online-Streitbeilegungsplatform der EU-Kommission finden Sie unter:
 
 <https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&lng=DE>
