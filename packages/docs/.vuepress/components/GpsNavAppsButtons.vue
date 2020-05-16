@@ -84,4 +84,5 @@
     a
       svg
         fill var(--textColor)
+        max-width 100%
 </style>
