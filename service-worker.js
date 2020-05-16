@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "648ef670a72461c6d52f6c1cd422a006"
+    "revision": "25a4952f12072fb93014e47eb70a835c"
   },
   {
-    "url": "assets/css/0.styles.259bb392.css",
-    "revision": "e003456097299637e3eef933abd29ac4"
+    "url": "assets/css/0.styles.ba529497.css",
+    "revision": "d8cb972f8d76f5e779c7373fff64d457"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -54,28 +54,28 @@ self.__precacheManifest = [
     "revision": "674f4663376ccb679df7e4c4496b9566"
   },
   {
-    "url": "assets/js/14.1c2a8f9c.js",
-    "revision": "ffe55bdee7d78205108164052489b26a"
+    "url": "assets/js/14.0d9cfc6e.js",
+    "revision": "5078e67c0665d497b71f2c925d052491"
   },
   {
-    "url": "assets/js/15.b8a155b9.js",
-    "revision": "adc744a773fe1450324157d05a0fc2dd"
+    "url": "assets/js/15.0c2f2fb2.js",
+    "revision": "93fe745d16d77b18fb45ee7dc61366b1"
   },
   {
-    "url": "assets/js/16.d4c321d6.js",
-    "revision": "f155728bb20b24fd6c1dc83c1e0e297e"
+    "url": "assets/js/16.a1be47d7.js",
+    "revision": "2ff50a90005d8945b548597a2aa344b4"
   },
   {
-    "url": "assets/js/17.73e15e7f.js",
-    "revision": "7d91cff1d0a9ba3c5739c5dd15908312"
+    "url": "assets/js/17.fb75ddaa.js",
+    "revision": "36a84a8c05a8e522cf3496cdb997b08c"
   },
   {
-    "url": "assets/js/18.eea2b159.js",
-    "revision": "8d55480786fdec48c6a76034d269f3d5"
+    "url": "assets/js/18.4b7442aa.js",
+    "revision": "2e55cb63b32e756d9be8bb60d0917388"
   },
   {
-    "url": "assets/js/19.26436560.js",
-    "revision": "286de6ca1a1789554ccdd22f265a8d42"
+    "url": "assets/js/19.dc16f997.js",
+    "revision": "d2300ffa08ccef34204807730a4fc353"
   },
   {
     "url": "assets/js/2.dfa53e52.js",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "62b5c941cf38ce8b25ce0185ea306f6b"
   },
   {
-    "url": "assets/js/26.821d34e4.js",
-    "revision": "5a8869da1cc5b737c13056bfa781a85a"
+    "url": "assets/js/26.ef834e12.js",
+    "revision": "21fc8208bae5f778d2566f0b670f7f08"
   },
   {
     "url": "assets/js/27.ee2872a9.js",
@@ -118,24 +118,24 @@ self.__precacheManifest = [
     "revision": "b198da0f6ee6f0b0157668fd9381c62b"
   },
   {
-    "url": "assets/js/29.b1b2e33d.js",
-    "revision": "761fe124e680287eed3388a0f2b37baf"
+    "url": "assets/js/29.9581102e.js",
+    "revision": "a26e94b759522f59041782fcf1820e71"
   },
   {
-    "url": "assets/js/3.79f0f77b.js",
-    "revision": "f0474a35df8e6159386e191cc460d8c3"
+    "url": "assets/js/3.9eef24b8.js",
+    "revision": "bd3054e00cffaede6a447d4fbcd8496a"
   },
   {
-    "url": "assets/js/30.58520af2.js",
-    "revision": "d6f0bb7c82f680895b4368092d27ba95"
+    "url": "assets/js/30.179716b1.js",
+    "revision": "86916b9549523c37c28c21aa25ab87d5"
   },
   {
     "url": "assets/js/31.86f1488c.js",
     "revision": "38cb518937c7f4af7812b4a03c163c8d"
   },
   {
-    "url": "assets/js/32.55d2dffa.js",
-    "revision": "211fbbe9465f41ca2f6f961103193acc"
+    "url": "assets/js/32.af421704.js",
+    "revision": "76c21975b6f04bc527f1e9baaf0486e0"
   },
   {
     "url": "assets/js/33.c50f0dfb.js",
@@ -146,16 +146,16 @@ self.__precacheManifest = [
     "revision": "eb9a59dce3342f0801079e8ad00869db"
   },
   {
-    "url": "assets/js/4.d021003c.js",
-    "revision": "5ee7cd1b9866ef71933473ef22a49af6"
+    "url": "assets/js/4.aff28e7b.js",
+    "revision": "dc61d28b339a45fda8d34d458ebe05f0"
   },
   {
-    "url": "assets/js/5.bdbf8cdd.js",
-    "revision": "24be4a1c18266e255529488e8d7a78ab"
+    "url": "assets/js/5.1d590556.js",
+    "revision": "937024081c618a49c032a2f0683a0a30"
   },
   {
-    "url": "assets/js/6.43fdb0ae.js",
-    "revision": "d4c50c49ac4a11eba46e40ac9d7d60d9"
+    "url": "assets/js/6.5efc74be.js",
+    "revision": "650591c39705b33941e2c6e08abaef25"
   },
   {
     "url": "assets/js/7.7859312b.js",
@@ -170,88 +170,88 @@ self.__precacheManifest = [
     "revision": "8b634e585ddec52ca948232fa0778c56"
   },
   {
-    "url": "assets/js/app.91087131.js",
-    "revision": "6c5c154dd16decc83a0247c3cb6d8ccf"
+    "url": "assets/js/app.657e9a37.js",
+    "revision": "26899eaaa2d000825a6fa4655869ef6b"
   },
   {
     "url": "de/imprint.html",
-    "revision": "c6ed3253cb00f8e4acd8c697d610f6a9"
+    "revision": "ad175343834ebfc87328731db38abf76"
   },
   {
     "url": "de/index.html",
-    "revision": "8a6733856e1604c0daa33e79a66c0efe"
+    "revision": "ff61de96cc6503d3b824d97d7f283d3b"
   },
   {
     "url": "de/legal/privacy.html",
-    "revision": "07a89b59ea30f822e9e0a67e18146ac2"
+    "revision": "bba95678ce80a54a4f82906b6af67cb6"
   },
   {
     "url": "de/legal/terms.html",
-    "revision": "bf345dec9c6853ec908c1d72bea816e3"
+    "revision": "1118597b2505a9098146a326f4602682"
   },
   {
     "url": "de/menu.html",
-    "revision": "2bd7c9316be926af4b20c19551229f59"
+    "revision": "2f0235183f9b731fc3885abe956f21de"
   },
   {
     "url": "de/privacy.html",
-    "revision": "d4a2df03eaa6b98549acc98a50220abd"
+    "revision": "505d064f6df6da26f8a6f0c6bd1736cd"
   },
   {
     "url": "de/restaurant/about.html",
-    "revision": "2c7a8eeb53cf120581a2c78407fc6c03"
+    "revision": "a3962f61ed43a8f6e4ab6d445da58d11"
   },
   {
     "url": "de/restaurant/career.html",
-    "revision": "44710c77dd640bc1ddd7bb4e5e3d920a"
+    "revision": "c84cd835da635b4aaab170100e94fc60"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
-    "revision": "30e5889a2a940cd19c431e1c54d9fbc3"
+    "revision": "8cabe66f6c004bfe792b83e0cc8797be"
   },
   {
     "url": "favicons/android-chrome-512x512.png",
-    "revision": "6294efc099e309cc072b460a5a0d9c83"
+    "revision": "f8b76898955bc024291dfae5216b9db4"
   },
   {
     "url": "favicons/apple-touch-icon-120x120.png",
-    "revision": "54cdf4d9d4a93509c292307772b252c0"
+    "revision": "79bce1f9cff125e432ead2f39c310691"
   },
   {
     "url": "favicons/apple-touch-icon-152x152.png",
-    "revision": "188fbd7896789731ffd64269e5fc5c4d"
+    "revision": "278bfa93fb49d3e9c79b9e1f0da79f87"
   },
   {
     "url": "favicons/apple-touch-icon-180x180.png",
-    "revision": "1f8df8ba49c813cc36a393fcb1b7b74f"
+    "revision": "4d0b6809899b8f63210d8fe8c955972e"
   },
   {
     "url": "favicons/apple-touch-icon-60x60.png",
-    "revision": "471c3bbd76895590048b64c6b6e5cdca"
+    "revision": "c408e3c9dc88fadf170607f89b15ddc3"
   },
   {
     "url": "favicons/apple-touch-icon-76x76.png",
-    "revision": "9a3e952e60f0f930248ce3e01fd7706f"
+    "revision": "491f8cee7d391c83cfae68ee433437be"
   },
   {
     "url": "favicons/apple-touch-icon.png",
-    "revision": "1f8df8ba49c813cc36a393fcb1b7b74f"
+    "revision": "4d0b6809899b8f63210d8fe8c955972e"
   },
   {
     "url": "favicons/favicon-16x16.png",
-    "revision": "2d65a0527a0c1acfb32d7c07923df242"
+    "revision": "2da72a53f01c4b5b370e846df3039b72"
   },
   {
     "url": "favicons/favicon-32x32.png",
-    "revision": "9bfef5cd866d9a7db57b4148401de0a4"
+    "revision": "a075685cedee205196f4be34940de310"
   },
   {
     "url": "favicons/msapplication-icon-144x144.png",
-    "revision": "2d6521c3d6505f9b7cc5847d1add2fff"
+    "revision": "40494998a34d33f37558089faf08fa62"
   },
   {
     "url": "favicons/mstile-150x150.png",
-    "revision": "1e30122987bd12fec0bb605516f2d5f6"
+    "revision": "79111c34c40c5a3fa7e20ce34aabf778"
   },
   {
     "url": "favicons/safari-pinned-tab.svg",
@@ -263,71 +263,71 @@ self.__precacheManifest = [
   },
   {
     "url": "imprint.html",
-    "revision": "b03779c8e080a19ae8073d3d9f9c6f94"
+    "revision": "fbfa5bb207453b9deef7d041ef2188fc"
   },
   {
     "url": "index.html",
-    "revision": "3a3f2ae867cd02ca4fe6a49f3e63964f"
+    "revision": "87da5eac57f6ea2532f542a5db7f53cd"
   },
   {
     "url": "it/imprint.html",
-    "revision": "e28a7ad662f5afdcde789a60eb001a5c"
+    "revision": "800c0824c9483b3d72f691d93bbaaadd"
   },
   {
     "url": "it/index.html",
-    "revision": "cbe5c7b30b52f545123c996cd72ee3fb"
+    "revision": "5193b8ecc9b635486822a1ff19e75424"
   },
   {
     "url": "it/legal/privacy.html",
-    "revision": "b6afab87d090821741836ab778962979"
+    "revision": "0a5a18e912226f487be9d65cf3cb7238"
   },
   {
     "url": "it/legal/terms.html",
-    "revision": "c1d04ba654cd62c34528b4fe82d5b8d5"
+    "revision": "26e92cbffabc23dd080fb44717e6f952"
   },
   {
     "url": "it/menu.html",
-    "revision": "b728a51a9cc1d58ec06aad085fa1cd1a"
+    "revision": "40e1f5e6c21dc9aecc31ed4e02221194"
   },
   {
     "url": "it/privacy.html",
-    "revision": "4c0f592a10e735a22952c44e654776e9"
+    "revision": "81aae38c7659fdff3c111ac49b58f5f1"
   },
   {
     "url": "it/restaurant/about.html",
-    "revision": "5638e279a85d37bccb01ba765d66dbcf"
+    "revision": "178330e0c8a94b1aca633606441a9e57"
   },
   {
     "url": "it/restaurant/career.html",
-    "revision": "88269f2ecdbe93be22e976e16a55df32"
+    "revision": "0708076e410efbdbd4d4e744d45ddb19"
   },
   {
     "url": "legal/privacy.html",
-    "revision": "7668bd3f1aa8f42191b8f6858c82c39b"
+    "revision": "9385b79d59087407a9e4d0a73a4d2def"
   },
   {
     "url": "legal/terms.html",
-    "revision": "37532b31892caf49a7949fcf75bab87a"
+    "revision": "fee96a2709eac289fa9bad1e641e6d33"
   },
   {
     "url": "logo.png",
-    "revision": "d85b34cde8a38d6a0161192a72e05640"
+    "revision": "1a7cc42e8f0d06c255c7e21e72a80d8f"
   },
   {
     "url": "menu.html",
-    "revision": "d00254846f6dbb3f6d9d1121900d6c0b"
+    "revision": "95d93cf88a3c693fe90f72288fccba62"
   },
   {
     "url": "privacy.html",
-    "revision": "82f22e884c964be0b7ac8f287d37efd2"
+    "revision": "fef723a4e8ade7467240dc77d43532c0"
   },
   {
     "url": "restaurant/about.html",
-    "revision": "e0376eb4dccf5ddcc8a90b6b51d4d16a"
+    "revision": "f8f2d3dd18f73b501d64008de5a78049"
   },
   {
     "url": "restaurant/career.html",
-    "revision": "f7d7bab427badac7aad0e468b2962d9b"
+    "revision": "88a3c895939763f37f41c506e456adeb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
