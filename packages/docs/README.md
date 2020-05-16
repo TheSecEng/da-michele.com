@@ -2,7 +2,7 @@
 lang: en
 home: true
 heroImage: /hero.jpg
-actionText: This week's menu →
+actionText: Menu →
 actionLink: /menu
 ---
 

@@ -5,8 +5,6 @@ sidebarDepth: 2
 
 # Menu
 
-> This week's menu starting on Wednesday, May 6th 2020.
-
 ## Antipasti
 
 > Starters

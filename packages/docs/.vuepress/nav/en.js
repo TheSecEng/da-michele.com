@@ -12,7 +12,7 @@ module.exports = [
         link: '/imprint'
       },
       {
-        text: "This week's Menu",
+        text: "Menu",
         link: '/menu'
       },
       {

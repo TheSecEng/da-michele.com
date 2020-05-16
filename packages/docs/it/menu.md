@@ -5,8 +5,6 @@ sidebarDepth: 2
 
 # Menu
 
-> Il menu di questa settimana inizia mercoledi, Maggio 06 2020.
-
 ## Antipasti
 
 ### Tartare di salmone

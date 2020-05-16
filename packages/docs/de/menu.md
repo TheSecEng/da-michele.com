@@ -5,8 +5,6 @@ sidebarDepth: 2
 
 # Menü
 
-> Unser Menü der Woche ab Mittwoch, den 06. Mai 2020.
-
 ## Antipasti
 
 > Vorspeisen
