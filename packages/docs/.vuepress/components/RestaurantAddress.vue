@@ -13,4 +13,6 @@
 
 <style lang="stylus">
 .restaurant-address
+  padding 0.5em
+  margin 1em 0 !important
 </style>
