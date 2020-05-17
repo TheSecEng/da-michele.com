@@ -21,6 +21,23 @@
     -->
     <p>
       <a
+        href="$withBase('Da_Michele_Baden-Baden.vcf')"
+      >
+        <!-- https://www.onlinewebfonts.com/icon/953 -->
+        <svg
+          role="img"
+          viewBox="0 0 1000 1000"
+          width="16"
+          height="16"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <title>vCard icon</title>
+          <path d="M920,237.5h-68.5V134.7L710,132.5l0.7,105H285.6l2.9-105L150,134.7v105l-70-2.2c-38.6,0-70,31.4-70,70v490c0,38.6,31.4,70,70,70h840c38.6,0,70-31.4,70-70v-490C990,268.9,958.6,237.5,920,237.5z M745,167.5h70v140h-70V167.5z M290,405.9c42.3,0,76.6,45,76.6,100.6S332.3,607.2,290,607.2s-76.6-45-76.6-100.6S247.7,405.9,290,405.9z M185,167.5h70v140h-70V167.5z M138.3,725.7c0,0,8.3-66.6,27.2-79.1c18.8-12.6,73.1-20.9,73.1-20.9s35.2,37.6,50.2,37.6c14.9,0,50.2-37.6,50.2-37.6s54.3,8.3,73.2,20.9c22.2,14.8,27.7,79.1,27.7,79.1H138.3z M850,692.5H535v-35h315V692.5z M850,622.5H535v-35h315V622.5z M850,552.5H535v-35h315V552.5z M850,482.5H535v-35h315V482.5z"/>
+        </svg>
+        <span>Download vCard</span>
+      </a>
+      &nbsp;|&nbsp;
+      <a
         href="https://www.facebook.com/pages/category/Italian-Restaurant/Pizzeria-Da-Michele-2293017134358842/"
       >
         <!-- https://simpleicons.org/icons/facebook.svg -->
