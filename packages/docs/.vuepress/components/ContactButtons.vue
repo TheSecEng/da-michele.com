@@ -21,7 +21,7 @@
     -->
     <p>
       <a
-        href="$withBase('Da_Michele_Baden-Baden.vcf')"
+        :href="$withBase('Da_Michele_Baden-Baden.vcf')"
       >
         <!-- https://www.onlinewebfonts.com/icon/953 -->
         <svg
