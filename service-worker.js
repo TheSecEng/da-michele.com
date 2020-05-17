@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "756d5bf4225661e09b13b6ce24a527c1"
+    "revision": "036d0cde5e8cd2ecc4a9fbd3c54819f5"
   },
   {
     "url": "assets/css/0.styles.271f9eed.css",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "ffe55bdee7d78205108164052489b26a"
   },
   {
-    "url": "assets/js/15.b8a155b9.js",
-    "revision": "adc744a773fe1450324157d05a0fc2dd"
+    "url": "assets/js/15.9fb331af.js",
+    "revision": "97227c13cd5f5e44c884f0549f767c47"
   },
   {
     "url": "assets/js/16.e06c0f89.js",
@@ -98,8 +98,8 @@ self.__precacheManifest = [
     "revision": "dd23546952531eb2fb4d8e3abab6f873"
   },
   {
-    "url": "assets/js/24.29cc692b.js",
-    "revision": "7dd6208a6ebe44a825cac1b76ce24fdf"
+    "url": "assets/js/24.d08e9a4c.js",
+    "revision": "c8c1c21448c89dd8a1913fffd964c89b"
   },
   {
     "url": "assets/js/25.58c0d0d6.js",
@@ -122,12 +122,12 @@ self.__precacheManifest = [
     "revision": "761fe124e680287eed3388a0f2b37baf"
   },
   {
-    "url": "assets/js/3.c646a28d.js",
-    "revision": "239487144490240c7ee845707c55cd3b"
+    "url": "assets/js/3.302b165f.js",
+    "revision": "6a40a209d61a7964348ff43b04b33383"
   },
   {
-    "url": "assets/js/30.58520af2.js",
-    "revision": "d6f0bb7c82f680895b4368092d27ba95"
+    "url": "assets/js/30.9542c5b3.js",
+    "revision": "7b7de815c59c02ddb15a6dd584e0681e"
   },
   {
     "url": "assets/js/31.86f1488c.js",
@@ -170,40 +170,40 @@ self.__precacheManifest = [
     "revision": "8b634e585ddec52ca948232fa0778c56"
   },
   {
-    "url": "assets/js/app.34d78e01.js",
-    "revision": "8137b71d08f60cbd4fad69e1adac31e1"
+    "url": "assets/js/app.3201f124.js",
+    "revision": "7095420c3f7d66887c4ae9dee440031f"
   },
   {
     "url": "de/imprint.html",
-    "revision": "fabf690f220e88cabae9fc1d7f50320a"
+    "revision": "21101ec20e98fcf62feb9db62621dc9e"
   },
   {
     "url": "de/index.html",
-    "revision": "1af5d10462a85c629ba88c89f710ab95"
+    "revision": "cf551d133f95139eddaf85f89d094499"
   },
   {
     "url": "de/legal/privacy.html",
-    "revision": "f2fdd6b7123a4ddd150462fdf014265e"
+    "revision": "6fad5799986f1490bbd5e5d1725d0517"
   },
   {
     "url": "de/legal/terms.html",
-    "revision": "5838263fa25b77d2a7fd092085b30429"
+    "revision": "bbc8b2713b598b5b2bee8f94c106c9aa"
   },
   {
     "url": "de/menu.html",
-    "revision": "62f21ab2858693ba429a70c22412250a"
+    "revision": "55576cdb96bea58f40f9c1544f5ca458"
   },
   {
     "url": "de/privacy.html",
-    "revision": "435b1758bce19959e64cb0c5924773f0"
+    "revision": "d2c937a46e198b04525f71395807c0fc"
   },
   {
     "url": "de/restaurant/about.html",
-    "revision": "d2a8d7b9b06f11287f64bcc923119f8d"
+    "revision": "11cfddf10296418c8a217cb7a4056bf8"
   },
   {
     "url": "de/restaurant/career.html",
-    "revision": "5e0513f30d11311471e7b42c281a22ac"
+    "revision": "530067b0f94c9da7ef06d432ac8af7f2"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -258,56 +258,72 @@ self.__precacheManifest = [
     "revision": "e73e46c8348e3f1b662620eac4ad31b8"
   },
   {
+    "url": "food/burrata_zucchini_asparagi.jpg",
+    "revision": "0303044ad115ebe623fd0d2781878a16"
+  },
+  {
+    "url": "food/polpo_riso_asparagi.jpg",
+    "revision": "5ccc279b74bb39f9e992734a6554188e"
+  },
+  {
+    "url": "food/tagliata.jpg",
+    "revision": "1db56d88b42063545028cad95c32cbba"
+  },
+  {
+    "url": "food/tartara_di_tonno.jpg",
+    "revision": "8d3d91ba909934cc38150de0b5a61f2b"
+  },
+  {
     "url": "hero.jpg",
     "revision": "da7df5e02b0bcbe63e5b661924470082"
   },
   {
     "url": "imprint.html",
-    "revision": "564d560aed9bda627cc79f5e4a3c5e2f"
+    "revision": "1c6a0bd573042e0d697401937aeaba14"
   },
   {
     "url": "index.html",
-    "revision": "c966d0dc6e3d1d1f0cd065e5fd89587b"
+    "revision": "d8f470c0577653baff00169007e1cea9"
   },
   {
     "url": "it/imprint.html",
-    "revision": "d78dd315b046094fa2e066ca0b7538ad"
+    "revision": "20bc9ff309c15d8696d2c3879a5f854d"
   },
   {
     "url": "it/index.html",
-    "revision": "4efe1c0a6ee677a97944f9c8a2649aba"
+    "revision": "a34e872966f1091cd76247ee8c2c684c"
   },
   {
     "url": "it/legal/privacy.html",
-    "revision": "92bd08c8cf73f6a7e48d94fcd9c9560b"
+    "revision": "1fc55b83dd9b9c36be486fb52e1277d7"
   },
   {
     "url": "it/legal/terms.html",
-    "revision": "465e0a45b4f430bad7901418623be669"
+    "revision": "271b120fca6b201cba438c99220cb247"
   },
   {
     "url": "it/menu.html",
-    "revision": "6d024841cf399fe7d97960cf4a00a715"
+    "revision": "c6929385dd0cabec2b9304520a11407d"
   },
   {
     "url": "it/privacy.html",
-    "revision": "5350243cba2c57a3d42b6393fe12f1b4"
+    "revision": "dc927cfbd129202429068792f2338954"
   },
   {
     "url": "it/restaurant/about.html",
-    "revision": "4eccbb0a41a902748a5a5a0fdeaa1326"
+    "revision": "f368b70cc3293924af88ebec9ea52422"
   },
   {
     "url": "it/restaurant/career.html",
-    "revision": "84137b7c7fc5b1de965f0f12aa0d3257"
+    "revision": "cb64d13769e333fbc6d4e2263cd08b0e"
   },
   {
     "url": "legal/privacy.html",
-    "revision": "82bb3282660d37ea5b9c8861a36c19d6"
+    "revision": "01884fb42dedbcd36ac05a64163ca997"
   },
   {
     "url": "legal/terms.html",
-    "revision": "cb4aa2169c36d13e39168753c9974b1d"
+    "revision": "557dccc5ebcce467bd579869d4794e10"
   },
   {
     "url": "logo.png",
@@ -315,19 +331,19 @@ self.__precacheManifest = [
   },
   {
     "url": "menu.html",
-    "revision": "9fa1a0073508459fa27a8e78e59d74b5"
+    "revision": "18e46ff371f21f214e71f3862295aa50"
   },
   {
     "url": "privacy.html",
-    "revision": "b6d00bc03cc41542bad2b20adf6310c2"
+    "revision": "b7fa4c8633b9b3ba3b969e22729af581"
   },
   {
     "url": "restaurant/about.html",
-    "revision": "7a6c979bb6d5de9f7446372822ca6aff"
+    "revision": "bf0a29e8df378f1a692e5da70a1059c8"
   },
   {
     "url": "restaurant/career.html",
-    "revision": "8ab9873e37462ae7345a6b70faf3a829"
+    "revision": "b24739509a32053340908a1ab9b5e356"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
