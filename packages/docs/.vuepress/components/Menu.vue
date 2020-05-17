@@ -14,7 +14,9 @@
             f-if="item.active === true"
           >
             <h3>{{ item.title }}</h3>
-            <p>{{ item.ingredients.$lang.join(' | ') }}</p>
+            <p v-if="$lang === 'de'">{{ item.ingredients.de.join(' | ') }}</p>
+            <p v-else-if="$lang === 'en'">{{ item.ingredients.en.join(' | ') }}</p>
+            <p v-else-if="$lang === 'it'">{{ item.ingredients.it.join(' | ') }}</p>
           </div>
         </div>
       </div>
