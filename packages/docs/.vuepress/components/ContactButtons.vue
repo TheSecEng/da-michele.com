@@ -1,25 +1,7 @@
 <template>
   <div class="contact-buttons">
-    <!--
-      TODO:
-            Discord,
-            Flickr,
-            LinkedIn,
-            Pinterest,
-            Reddit,
-            Signal,
-            Sina Weibo,
-            Snapchat,
-            Telegram,
-            TikTok,
-            Twitter,
-            WeChat,
-            WhatsApp,
-            Vimeo,
-            Yelp,
-            Youtube
-    -->
     <p>
+      <!-- FIXME: fix download link for non-English pages (this.$site.base + ...)-->
       <a
         :href="$withBase('Da_Michele_Baden-Baden.vcf')"
       >
@@ -90,6 +72,12 @@
     </p>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'ContactButtons'
+}
+</script>
 
 <style lang="stylus">
 .contact-buttons
