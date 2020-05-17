@@ -11,7 +11,7 @@
           v-for="(item, i-index) in section.items"
         >
           <div
-            f-if="item.active === true"
+            v-if="item.active === true"
           >
             <h3>{{ item.title }}</h3>
             <p v-if="$lang === 'de'">{{ item.ingredients.de.join(' | ') }}</p>
