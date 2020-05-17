@@ -1,8 +1,7 @@
 name: label-issues-new
 
 on:
-  issues:
-    - types: opened
+  issues: {types: opened}
 
 jobs:
   apply-label:
