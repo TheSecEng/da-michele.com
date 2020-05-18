@@ -1,7 +1,8 @@
 name: label-issues-reopened
 
 on:
-  issues: {types: reopened}
+  issues:
+    types: reopened
 
 jobs:
   apply-label:
