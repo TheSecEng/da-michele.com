@@ -3,6 +3,13 @@
     "version": "0.20200515.0",
     "private": true,
     "description": "Ristorante da Michele",
+    "keywords": [
+        "restaurant",
+        "restaurant-website",
+        "ristorante",
+        "baden-baden",
+        "vuepress-site"
+    ],
     "homepage": "https://github.com/da-michele/da-michele.com#readme",
     "bugs": {
         "url": "https://github.com/da-michele/da-michele.com/issues"
@@ -13,6 +20,9 @@
     },
     "license": "MIT",
     "author": "Ristorante da Michele <damichele.badenoos@gmail.com>",
+    "engines": {
+        "yarn": ">=1.22.4"
+    },
     "scripts": {
         "build": "yarn install && vuepress build . --no-cache",
         "check-md": "yarn install && vuepress check-md .",
