@@ -46,16 +46,16 @@
           height="16"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <title>NAVIGON (Garmin) icon</title>
+          <title>NAVIGON icon</title>
           <path d="M22.017 22.67H1.984c-.77 0-1.388-.383-1.694-1.002-.387-.61-.387-1.39 0-2.002L10.304 2.33c.385-.615 1.002-1 1.695-1 .77 0 1.386.385 1.69 1l10.02 17.336c.387.617.387 1.39 0 2.002-.31.695-.927 1.002-1.693 1.002z"/>
         </svg>
-        <span>NAVIGON (Garmin)</span>
+        <span>NAVIGON by Garmin (iOS)</span>
       </a>
       &nbsp;|&nbsp;
       <a
         href="tomtomgo://x-callback-url/navigate?destination=48.786975,8.1936724"
       >
-        TomTom Go
+        <span>TomTom Go (iOS)</span>
       </a>
       &nbsp;|&nbsp;
       <a
