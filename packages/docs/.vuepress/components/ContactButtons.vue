@@ -3,6 +3,8 @@
     <p>
       <a
         :href="$withBase('/Da_Michele_Baden-Baden.vcf')"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://www.onlinewebfonts.com/icon/953 -->
         <svg
@@ -20,6 +22,8 @@
       &nbsp;|&nbsp;
       <a
         href="https://www.facebook.com/pages/category/Italian-Restaurant/Pizzeria-Da-Michele-2293017134358842/"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://simpleicons.org/icons/facebook.svg -->
         <svg
@@ -37,6 +41,8 @@
       &nbsp;|&nbsp;
       <a
         href="https://github.com/da-michele/"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://simpleicons.org/icons/github.svg -->
         <svg
@@ -54,6 +60,8 @@
       &nbsp;|&nbsp;
       <a
         href="https://www.instagram.com/da_michele_badenbaden/"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://simpleicons.org/icons/instagram.svg -->
         <svg

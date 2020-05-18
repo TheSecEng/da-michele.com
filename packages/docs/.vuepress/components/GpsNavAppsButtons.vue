@@ -3,6 +3,8 @@
     <p>
       <a
         href="https://www.google.com/maps/dir/?api=1&amp;origin=&amp;destination=Ristorante+Da+Michele%2C+Sinzheimer+Str.+4%2C+76532+Baden-Baden%2C+Germany&amp;travelmode=driving&amp;dir_action=navigate&amp;center=48.786975,8.1936724&amp;zoom=19&amp;basemap=roadmap&amp;layer=traffic"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://simpleicons.org/icons/googlemaps.svg -->
         <svg
@@ -20,6 +22,8 @@
       &nbsp;|&nbsp;
       <a
         href="https://share.here.com/r/mylocation/48.786975,8.1936724?m=d"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://simpleicons.org/icons/here.svg -->
         <svg
@@ -37,6 +41,8 @@
       &nbsp;|&nbsp;
       <a
         href="navigoneu://address/Ristorante%20Da%20Michele/DEU/76532/Baden-Baden/Sinzheimer%20Str./4/48.786975/8.1936724/"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://simpleicons.org/icons/garmin.svg -->
         <svg
@@ -54,12 +60,16 @@
       &nbsp;|&nbsp;
       <a
         href="tomtomgo://x-callback-url/navigate?destination=48.786975,8.1936724"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <span>TomTom Go (iOS)</span>
       </a>
       &nbsp;|&nbsp;
       <a
         href="https://www.waze.com/ul?q=Ristorante%20Da%20Michele&amp;ll=48.786975,8.1936724&amp;navigate=yes"
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <!-- https://simpleicons.org/icons/waze.svg -->
         <svg

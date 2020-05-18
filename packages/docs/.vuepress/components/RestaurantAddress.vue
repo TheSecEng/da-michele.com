@@ -5,8 +5,8 @@
       Sinzheimer Str. 4<br>
       76532 Baden-Baden<br>
       <br>
-      Email: <a href="mailto:info@da-michele.com">info@da-michele.com</a><br>
-      Tel: <a href="tel:+49722161541">+49 - (0) 7221 - 61541</a>
+      Email: <a href="mailto:info@da-michele.com" target="_blank" rel="noopener noreferrer">info@da-michele.com</a><br>
+      Tel: <a href="tel:+49722161541" target="_blank" rel="noopener noreferrer">+49 - (0) 7221 - 61541</a>
     </address>
   </div>
 </template>
