@@ -9,17 +9,8 @@
 </template>
 
 <script>
-import { ContactButtons } from 'ContactButtons'
-import { GpsNavAppsButtons } from 'GpsNavAppsButtons'
-import { RestaurantAddress } from 'RestaurantAddress'
-
 export default {
-  name: 'ContactUs',
-  components: {
-    ContactButtons,
-    GpsNavAppsButtons,
-    RestaurantAddress
-  }
+  name: 'ContactUs'
 }
 </script>
 
