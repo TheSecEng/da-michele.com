@@ -19,7 +19,7 @@
         "url": "git+https://github.com/da-michele/da-michele.com.git"
     },
     "license": "MIT",
-    "author": "Ristorante da Michele <damichele.badenoos@gmail.com>",
+    "author": "Ristorante da Michele <damichele.badenoos@gmail.com> (https://da-michele.com)",
     "engines": {
         "yarn": ">=1.22.4"
     },
