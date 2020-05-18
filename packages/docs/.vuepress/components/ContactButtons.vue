@@ -1,9 +1,8 @@
 <template>
   <div class="contact-buttons">
     <p>
-      <!-- FIXME: fix download link for non-English pages (this.$site.base + ...)-->
       <a
-        :href="$withBase('Da_Michele_Baden-Baden.vcf')"
+        :href="$withBase('/Da_Michele_Baden-Baden.vcf')"
       >
         <!-- https://www.onlinewebfonts.com/icon/953 -->
         <svg
