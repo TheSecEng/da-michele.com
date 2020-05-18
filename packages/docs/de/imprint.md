@@ -10,8 +10,6 @@ Anbieter laut [§ 5 Telemediengesetz](https://www.gesetze-im-internet.de/tmg/__5
 
 <RestaurantAddress/>
 
-<GpsNavAppsButtons/>
-
 ## Inhaber
 
 Michele Romano
