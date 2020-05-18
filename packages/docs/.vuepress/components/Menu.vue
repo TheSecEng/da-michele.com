@@ -51,7 +51,7 @@ export default {
             'items': [
               {
                 'title': 'Tartare di salmone',
-                'show': false,
+                'show': true,
                 'ingredients': {
                   'de': [ 'Lachs', 'Avocado', 'grüner Spargel' ],
                   'en': [ 'salmon', 'avocado', 'green asparagus' ],
