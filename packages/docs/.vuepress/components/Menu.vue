@@ -7,6 +7,12 @@
         v-for="(section, sindex) in data.menu"
       >
         <h2>{{ section.title }}</h2>
+        <blockquote v-if="$lang === 'de' && section.descriptions.de">
+          <span>{{ section.descriptions.de }}</span>
+        </blockquote>
+        <blockquote v-else-if="$lang === 'en' && section.descriptions.en">
+          <span>{{ section.descriptions.en }}</span>
+        </blockquote>
         <div
           v-for="(item, iindex) in section.items"
         >
