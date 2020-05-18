@@ -19,6 +19,8 @@ jobs:
 
       - uses: actions/checkout@v2
 
+      # Compare `scripts.check-md` in
+      # https://github.com/da-michele/da-michele.com/blob/master/packages/docs/package.json
       - name: Run check-md
         run: |
           cd packages/docs
