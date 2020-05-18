@@ -78,6 +78,12 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: 'GpsNavAppsButtons'
+}
+</script>
+
 <style lang="stylus">
 .gps-nav-apps-buttons
   p

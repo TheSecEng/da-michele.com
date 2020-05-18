@@ -11,6 +11,12 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: 'RestaurantAddress'
+}
+</script>
+
 <style lang="stylus">
 .restaurant-address
   padding 0.5em

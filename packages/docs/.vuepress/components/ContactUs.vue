@@ -8,6 +8,21 @@
   </div>
 </template>
 
+<script>
+import { ContactButtons } from 'ContactButtons'
+import { GpsNavAppsButtons } from 'GpsNavAppsButtons'
+import { RestaurantAddress } from 'RestaurantAddress'
+
+export default {
+  name: 'ContactUs',
+  components: {
+    ContactButtons,
+    GpsNavAppsButtons,
+    RestaurantAddress
+  }
+}
+</script>
+
 <style lang="stylus">
 .contact-us
   padding 0.5em
